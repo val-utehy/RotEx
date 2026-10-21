@@ -1,0 +1,15 @@
+torch>=2.6.0
+torchvision>=0.19.0
+numpy>=1.24.0
+pillow>=10.3.0
+tqdm
+einops
+safetensors
+transformers>=4.48.0
+accelerate
+opencv-python
+sentencepiece
+huggingface_hub
+timm>=0.9.0
+lpips
+flash-attn>=2.0.0

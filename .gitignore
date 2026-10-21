@@ -1,0 +1,13 @@
+# Model weights are distributed through Hugging Face.
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Python and download caches.
+__pycache__/
+*.py[cod]
+.cache/
+
+# Generated inference outputs.
+outputs/
